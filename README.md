@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Desktop-File-Editing-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-File-Editing-Integration?style=social&color=white" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-File-Editing-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-File-Editing-Integration?style=social&color=white" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-File-Editing-Integration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Desktop-File-Editing-Integration?style=social&color=white" alt="GitHub Forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -113,9 +113,9 @@ The table below outlines leading commercial cloud platforms providing native des
 
 ## 🟩 Open-Source Software 🔓
 
-Curated list of production-ready, self-hosted, and community-driven desktop file editing, sync, and virtual filesystem mounting solutions. Ranked in **descending order by GitHub star count**.
+Curated list of production-ready, self-hosted, and community-driven desktop file editing, sync, and virtual filesystem mounting solutions. Ranked in **descending order by GitHub Stars_Count**.
 
-| Project / Software | GitHub Stars ⭐ | Stack / Tech | License | Primary Architecture & Local Editing Mechanism |
+| Project / Software | GitHub_Stars ⭐ | Stack / Tech | License | Primary Architecture & Local Editing Mechanism |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Syncthing](https://github.com/syncthing/syncthing)** 🔄 | [![Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers) | Go | MPL-2.0 | Decentralized peer-to-peer continuous block sync engine; edit files natively in synced local directories |
 | **[Rclone](https://github.com/rclone/rclone)** ☁️ | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | MIT | Universal cloud storage mount engine (`rclone mount`) presenting 70+ cloud backends as local filesystem drives |
