@@ -113,7 +113,7 @@ The table below outlines leading commercial cloud platforms providing native des
 
 ## 🟩 Open-Source Software 🔓
 
-Curated list of production-ready, self-hosted, and community-driven desktop file editing, sync, and virtual filesystem mounting solutions. Ranked in **descending order by GitHub Stars_Count**.
+Curated list of production-ready, self-hosted, and community-driven desktop file editing, sync, and virtual filesystem mounting solutions. Ranked in **descending order by GitHub_Stars_Count**.
 
 | Project / Software | GitHub_Stars ⭐ | Stack / Tech | License | Primary Architecture & Local Editing Mechanism |
 | :--- | :--- | :--- | :--- | :--- |
